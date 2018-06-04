@@ -3,7 +3,7 @@ This is a easy demo that implements logistic regression use "Stochastic gradient
 
 ### Output:
 
-### Use iris type 0 as training set：
+### Use iris flower type 0 as training set：
 
 
 ![image](https://github.com/Larix/Logistic_Regression/blob/master/img/Figure_1-1.png)
@@ -30,7 +30,7 @@ epoch = 15.0: current_cost =  22.99945481482544
 Accuracy:  100.0 %
 ```
 
-### Use iris type 2 as training set：
+### Use iris flower type 2 as training set：
 
 ![image](https://github.com/Larix/Logistic_Regression/blob/master/img/Figure_2-1.png)
 ![image](https://github.com/Larix/Logistic_Regression/blob/master/img/Figure_2-2.png)
