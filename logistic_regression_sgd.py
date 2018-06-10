@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import math
 import random
-# load sklearn iris dataset
+# load sklearn iris datasets
 from sklearn import datasets
 from sklearn.metrics import accuracy_score
 
