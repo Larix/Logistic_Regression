@@ -1,4 +1,4 @@
-# Logistic_Regression
+# Logistic Regression
 此專案使用iris-dataset作為數據集實現邏輯回歸(logistic regression)之實作範例  
 
 This is a demo that implements logistic regression use "Stochastic gradient descent" and use iris-dataset as training data
